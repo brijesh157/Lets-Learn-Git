@@ -5,7 +5,6 @@ public class Sum{
         int b=20;
         int c=30;
         int d=11;
-        int e=26;
-        System.out.println(a+b+c+d+e);
+        System.out.println(a+b+c+d);
     }
 }
